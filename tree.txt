@@ -1,1 +1,0 @@
-for /R %i in (*.cs) do type "%i" >> all_code.txt
